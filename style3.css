@@ -117,8 +117,7 @@ li{
   text-align: justify;
   color: #333;
   font-weight: 400;
-  line-height: 1.8;
-  line-height: 1.8;
+  line-height: 2;
 }
 @-webkit-keyframes point {
   0% {
@@ -152,12 +151,5 @@ header::before{
   height: 1px;
   width: 100%;
   background: #AFAFB6;
-}
-li{
-  text-align: justify;
-  color: #333;
-  font-weight: 400;
-  line-height: 1.8;
-  line-height: 2;
 }
 }
