@@ -161,7 +161,7 @@ h4{
   	color: #333;
     text-decoration: none;
     font-size: 10px;
-    line-height: 30px;
+    line-height: 25px;
     display: block;
     padding: 0px 5px;
     transition-duration:0.6s;
@@ -182,7 +182,6 @@ h4{
 	right: 20px;
 	top: 10%;
 	font-size: 14px;
-	font-family: "Font Awesome 5 Free";
 	display: inline-block;
 	padding-right: 3px;
 	vertical-align: middle;
@@ -197,7 +196,7 @@ h4{
 	display:inline-block;
 	position:absolute;
 	height: 90%;
-	top: 10px;
+	top: 10%;
 	left: 0px;
 	transition-duration:0.6s;
 	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
