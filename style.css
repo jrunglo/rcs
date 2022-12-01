@@ -116,6 +116,10 @@ i {
 .profile{
   width: 55%;
 }
+.video{
+  padding-top: 15px;
+  width: 95%;
+}
 h2{
   text-align: justify;
   margin-left: auto;
